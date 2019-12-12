@@ -8,4 +8,4 @@ O estudo consiste em uma hora por dia, ou 30 minutos no caso de imprevistos.
 
 Estudo de gramática através de videos ou livros. 30 min de estudo e 30 min de revisão com anotação de mapas mentais.
 
-[Round 1](log1.md)
+[Round 1](r1-log.md)
