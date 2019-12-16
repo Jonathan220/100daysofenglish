@@ -10,4 +10,8 @@ hoje comecei o estudo de inglês. Asisto às video aulas fazendo mapas mentais.
 
 ### R1D2
 
-Asistir mais um pouco das aulas e conseguir aprender bastante.
+Asisti mais um pouco das aulas e conseguir aprender bastante.
+
+### R1D3
+
+Estudei mais um pouco hoje. Estou aprendendo números.
