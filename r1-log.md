@@ -15,3 +15,7 @@ Asisti mais um pouco das aulas e conseguir aprender bastante.
 ### R1D3
 
 Estudei mais um pouco hoje. Estou aprendendo números.
+
+### R1D4
+
+terminei hoje o estudo de inglês. Até que estou indo bem.
