@@ -19,3 +19,7 @@ Estudei mais um pouco hoje. Estou aprendendo números.
 ### R1D4
 
 terminei hoje o estudo de inglês. Até que estou indo bem.
+
+### R1D5
+
+Mais estudos de video aula. Da próxima vez procurar fazer uma revisão.
