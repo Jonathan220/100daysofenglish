@@ -23,3 +23,7 @@ terminei hoje o estudo de inglês. Até que estou indo bem.
 ### R1D5
 
 Mais estudos de video aula. Da próxima vez procurar fazer uma revisão.
+
+### R1D6 - R1D7
+
+Passei a estudar o livro.
